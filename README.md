@@ -19,8 +19,7 @@
 
 <br>
 
-![Fredy's github stats](https://github-readme-stats.vercel.app/api?username=Hrishikesh-coder)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh-coder&custom_title=Hrishikesh%20Bhanja&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
 # THAT'S ME !
 
 ⭐️ From [Hrishikesh-coder](https://github.com/Hrishikesh-coder)
