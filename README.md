@@ -26,6 +26,8 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hrishikesh-coder&custom_title=Hrishikesh%20Bhanja&show_icons=true&count_private=true&theme=default&include_all_commits=true" />
-# THAT'S ME !
+<br>
+
+## That's Me !
 
 ⭐️ From [Hrishikesh-coder](https://github.com/Hrishikesh-coder)
