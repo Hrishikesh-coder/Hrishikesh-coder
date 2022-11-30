@@ -13,11 +13,7 @@
 - <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=30 height=30>  I have built some projects and am planning to build some more.<br>
 <br>
 
-## Current Project
 
-- 🔭 I’m currently working on [cheatcode.tech](cheatcode.tech), an interactive coding learning platform for school going students.
-
-<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hrishikesh-coder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
